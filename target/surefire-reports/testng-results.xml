@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="basicSuite" duration-ms="78933" started-at="2017-08-23T07:57:13Z" finished-at="2017-08-23T07:58:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="78933" started-at="2017-08-23T07:57:13Z" finished-at="2017-08-23T07:58:32Z">
+      <class name="test.HomePage.HomePageTestCases">
+        <test-method status="PASS" signature="init()[pri:0, instance:test.HomePage.HomePageTestCases@2669b199]" name="init" is-config="true" duration-ms="10652" started-at="2017-08-23T13:27:13Z" finished-at="2017-08-23T13:27:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="TC_001SourceDropdown()[pri:0, instance:test.HomePage.HomePageTestCases@2669b199]" name="TC_001SourceDropdown" duration-ms="11453" started-at="2017-08-23T13:27:24Z" finished-at="2017-08-23T13:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001SourceDropdown -->
+        <test-method status="PASS" signature="TC_002VerifySearchResults()[pri:0, instance:test.HomePage.HomePageTestCases@2669b199]" name="TC_002VerifySearchResults" duration-ms="54479" started-at="2017-08-23T13:27:35Z" finished-at="2017-08-23T13:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002VerifySearchResults -->
+        <test-method status="PASS" signature="close()[pri:0, instance:test.HomePage.HomePageTestCases@2669b199]" name="close" is-config="true" duration-ms="2337" started-at="2017-08-23T13:28:30Z" finished-at="2017-08-23T13:28:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- test.HomePage.HomePageTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- basicSuite -->
+</testng-results>
